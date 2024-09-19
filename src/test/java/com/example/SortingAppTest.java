@@ -10,7 +10,6 @@ import java.io.PrintStream;
 import static org.junit.Assert.*;
 
 public class SortingAppTest {
-
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
 

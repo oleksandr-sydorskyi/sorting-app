@@ -13,6 +13,7 @@ import static org.junit.Assert.*;
 
 @RunWith(Parameterized.class)
 public class SortingAppParameterizedTest {
+
     private final String[] input;
     private final String expectedOutput;
 

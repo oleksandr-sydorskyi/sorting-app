@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class SortingApp {
     public static void main(String[] args) {
+
         if (args.length > 0) {
             try {
                 int[] numbers = Arrays.stream(args)
